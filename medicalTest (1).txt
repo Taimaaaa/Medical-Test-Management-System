@@ -1,0 +1,5 @@
+Name: Hemoglobin (Hgb); Range: > 13.8, < 17.2; Unit: g/dL
+Name: Blood Glucose Test (BGT); Range: > 70, < 99; Unit: mg/dL
+Name: LDL Cholesterol Low-Density Lipoprotein (LDL); Range: < 100; Unit: mg/dL
+Name: Systolic Blood Pressure (systole); Range: < 120; Unit: mm Hg
+Name: Diastolic Blood Pressure (diastole); Range: < 80; Unit: mm Hg
